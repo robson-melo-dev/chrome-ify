@@ -4,7 +4,7 @@
   "description": "Describe your chrome extension here",
   "version": "1.0",
   "action": {
-    "default_icon": "puzzle.png",
+    "default_icon": "icon.png",
     "default_title": "My Chrome Extension",   
     "default_popup": "popup.html" 
   },

@@ -2,7 +2,7 @@ import React from "react";
 import { render } from "react-dom";
 
 
-export default function popup() {
+export default function Popup() {
   return (
     <div>
       <h1>Hello from popup.jsx</h1>
@@ -10,4 +10,4 @@ export default function popup() {
   )
 }
 
-render(<popup />, document.getElementById("react-target"));
+render(<Popup />, document.getElementById("react-target"));
